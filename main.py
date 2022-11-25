@@ -1,8 +1,5 @@
-
-
-
 class SecretSanta:
-    
+
     def __init__(self):
         self.info = dict()
         self.selections = dict()
@@ -19,5 +16,4 @@ class SecretSanta:
     
     def start(self):
         pass
-    
     
